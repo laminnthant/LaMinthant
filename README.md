@@ -17,7 +17,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📌 Other 😉
-👩‍💻 I'm currently working on [school management]().
+👩‍💻 I'm currently working on [school management](https://github.com/laminnthant/schoolmanagement).
 
 🧠 I'm currently learning Python, Next Js, MongoDb..
 
