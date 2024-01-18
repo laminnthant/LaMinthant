@@ -3,10 +3,9 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS...![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# other
 
-
-## Other
 👩‍💻 I'm currently working on my own project.
 
 🧠 I'm currently learning Python,MongoDb..
@@ -19,9 +18,9 @@ Javascript, HTML, CSS...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+![X](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
 
 ## 🚀 About Me
