@@ -17,7 +17,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📌 Other 😉
-👩‍💻 I'm currently working on [school management](https://github.com/laminnthant/schoolmanagement).
+👩‍💻 I'm currently working on my own progress.
+
+📚 I love learning , reading and writing..
 
 🧠 I'm currently learning Python, Next Js, MongoDb..
 
@@ -25,7 +27,7 @@
 
 💬 Ask me about javascript
 
-⚡️ Fun fact **You are Javascript to my Web**.
+⚡️ Fun fact **'You are Javascript to my Web'**.
 
 
 ## 🔗 Links
